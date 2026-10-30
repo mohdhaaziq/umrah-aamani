@@ -108,3 +108,7 @@ Untuk membetulkan atau menambah kandungan seperti doa, soalan kuiz atau larangan
 Kandungan ialah rujukan ringkas mengikut **Mazhab Syafie**, bertujuan membantu keluarga dan kanak-kanak mengenal susunan umrah sebelum berangkat. Ia bukan pengganti kursus umrah. Sahkan setiap amalan dengan guru dan panduan rasmi Lembaga Tabung Haji.
 
 Jumpa kesilapan pada doa, terjemahan atau hukum? Buka [isu](https://github.com/mohdhaaziq/umrah-aamani/issues) dan nyatakan rujukannya.
+
+## Lesen
+
+Kod dikeluarkan di bawah [lesen MIT](LICENSE).
